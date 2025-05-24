@@ -1,16 +1,8 @@
 # languageassistance
+i have a chinese friend who is learning english and has a hard time with the english vocabulary. So i made this english learning assistance app that will help her in learning english words and noting it down with the app. 
+She can write down/ save the words that she have learned, and the app will fetch its meaning and example usage.
+This is done through API calling.
 
-A new Flutter project.
+For this app i have used OpenAI's API.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+The app can also generate quizes for the words that she have saved, for better learning reinforcement. 
