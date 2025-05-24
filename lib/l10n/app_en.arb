@@ -1,0 +1,13 @@
+{
+  "@@locale": "en",
+  "appTitle": "LULU",
+  "noVocabulary": "No vocabulary added yet.",
+  "vocabulary": "Vocabulary",
+  "quiz": "Quiz",
+  "addVocabulary": "Add Vocabulary",
+  "editVocabulary": "Edit Vocabulary",
+  "generateData": "Generate Data",
+  "updateVocabulary": "Update Vocabulary",
+  "delete": "Delete",
+  "close": "Close"
+}

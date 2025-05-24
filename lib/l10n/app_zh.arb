@@ -1,0 +1,13 @@
+{
+  "@@locale": "zh",
+  "appTitle": "璐璐",
+  "noVocabulary": "尚未添加词汇。",
+  "vocabulary": "词汇",
+  "quiz": "测验",
+  "addVocabulary": "添加词汇",
+  "editVocabulary": "编辑词汇",
+  "generateData": "生成数据",
+  "updateVocabulary": "更新词汇",
+  "delete": "删除",
+  "close": "关闭"
+}
